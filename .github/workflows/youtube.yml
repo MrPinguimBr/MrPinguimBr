@@ -1,0 +1,30 @@
+name: Atualizar vídeos do YouTube
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/youtube.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  youtube-cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCGC7KnI2123nCXRBgI8cnVw
+          max_videos: 4
+          theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
+          theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#00f0ff", "stats_color": "#8b949e" }'
+          card_width: 250
+          border_radius: 10
+          show_duration: true
+          lang: pt-BR
+          commit_message: "Atualiza vídeos do YouTube"

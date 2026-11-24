@@ -14,6 +14,12 @@
   <img src="https://komarev.com/ghpvc/?username=MrPinguimBr&label=VISITAS&color=00f0ff&style=for-the-badge&labelColor=0d1117" alt="visitas"/>
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/@mrpinguim_br?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/YouTube-Mr%20Pinguim-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" alt="YouTube"/>
+  </a>
+</p>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <table>
@@ -73,6 +79,31 @@ lema:      "se roda no Linux, roda."
 </td>
 </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+### `📺 > youtube --canal mrpinguim_br`
+
+<p align="center">
+  <b>🎙️ Falo de Jogos, Tecnologia e Mídia</b><br/><br/>
+  <a href="https://www.youtube.com/@mrpinguim_br?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCGC7KnI2123nCXRBgI8cnVw?label=inscritos&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&labelColor=0d1117" alt="inscritos"/>
+  </a>
+  <a href="https://www.youtube.com/@mrpinguim_br/videos">
+    <img src="https://img.shields.io/youtube/channel/views/UCGC7KnI2123nCXRBgI8cnVw?label=visualiza%C3%A7%C3%B5es&style=for-the-badge&logo=youtube&logoColor=white&color=00f0ff&labelColor=0d1117" alt="visualizações"/>
+  </a>
+</p>
+
+<p align="center"><sub>🔴 últimos vídeos — atualiza sozinho</sub></p>
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+<p align="center">
+  <a href="https://www.youtube.com/@mrpinguim_br?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20SE%20INSCREVA%20NO%20CANAL-FF0000?style=for-the-badge&labelColor=0d1117" alt="Inscreva-se"/>
+  </a>
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
